@@ -6,7 +6,7 @@
 ![Python version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)  
 ![License](https://img.shields.io/github/license/add-qwq/PythonProcessKiller-Py?style=flat-square)  
 
-This is the **Python version** of the Python process management tool, with a corresponding **[C# version](https://github.com/add-qwq/PythonProcessKiller-Csharp)** available (suitable for scenarios requiring high-speed operation and long-term maintenance). The Python version focuses on **rapid development and flexible modification**, supporting direct invocation in development environments. Precompiled EXEs are also provided (suitable for temporary use, though slightly slower than the C# version). Manage Python processes visually, eliminating the hassle of manual command-line termination.  
+This is the **Python version** of the Python process management tool, with a corresponding **[C# version](https://github.com/add-qwq/PythonProcessKiller-Csharp)** available (suitable for scenarios requiring high-speed operation and long-term maintenance). The Python version focuses on **rapid development and flexible modification**, supporting direct invocation in development environments. Precompiled EXEs are also provided (suitable for temporary use, though slightly Slower than the C# version). Easily manage Python processes through a visual interface to solve the tedious process of manually searching and terminating them in Task Manager.
 
 
 ## 🌟 Key Features  
@@ -122,7 +122,7 @@ This project is licensed under the [Apache License 2.0](https://github.com/add-q
 ![Python version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)  
 ![License](https://img.shields.io/github/license/add-qwq/PythonProcessKiller-Py?style=flat-square)  
 
-本项目为 **Python 进程管理工具** 的 Python 版本实现，配套存在 **[C# 版本](https://github.com/add-qwq/PythonProcessKiller-Csharp)**（适合需要高速运行、长期维护的场景）。Python 版侧重 **快速开发与灵活修改**，支持直接在开发环境中调用运行，也提供预编译 EXE（适合临时使用，但运行速度略慢于 C# 版）。通过可视化界面轻松管理 Python 进程，解决手动命令行终止进程的繁琐问题。  
+本项目为 **Python 进程管理工具** 的 Python 版本实现，配套存在 **[C# 版本](https://github.com/add-qwq/PythonProcessKiller-Csharp)**（适合需要高速运行、长期维护的场景）。Python 版侧重 **快速开发与灵活修改**，支持直接在开发环境中调用运行，也提供预编译 EXE（适合临时使用，但运行速度略慢于 C# 版）。通过可视化界面轻松管理 Python 进程，解决手动去任务管理器先查找再终止的繁琐过程  
 
 
 ## 🌟 核心功能  

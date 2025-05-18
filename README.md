@@ -23,7 +23,7 @@ This is the **Python version** of the Python process management tool, with a cor
 No Python or dependencies needed:  
 1. Go to the [Releases page](https://github.com/add-qwq/PythonProcessKiller-Py/releases).  
 2. Download `PythonProcessKiller-Py-EXE.zip` and extract it.  
-3. You’ll find two executables: `PythonProcessKiller-EN.exe` (English) and `PythonProcessKiller-CN.exe` (Chinese). Double-click to run.  
+3. You’ll find one executables: `PythonProcessKiller.exe`. Double-click to run.  
 
 
 ### Option 2: Run from Source Code (For Development/Modification)  
@@ -139,7 +139,7 @@ This project is licensed under the [Apache License 2.0](https://github.com/add-q
 无需安装 Python 或依赖：  
 1. 前往 [Releases 页面](https://github.com/add-qwq/PythonProcessKiller-Py/releases)。  
 2. 下载 `PythonProcessKiller-Py-EXE.zip` 并解压。  
-3. 解压后包含两个可执行文件：`PythonProcessKiller-EN.exe`（英文）和 `PythonProcessKiller-CN.exe`（中文），双击运行即可。  
+3. 解压后包含一个可执行文件：`PythonProcessKiller.exe`，双击运行即可。  
 
 
 ### 方式 2：从源代码运行（适合开发/修改）  
